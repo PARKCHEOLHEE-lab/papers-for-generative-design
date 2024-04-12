@@ -1,7 +1,7 @@
 ### Papers for Generative Design
 
 
-`papers-for-generative-design` is a collection of papers · articles · and code for deep generative design giving design inspiration. 
+`papers-for-generative-design` is a collection of papers, articles, and code for deep generative design giving design inspiration. 
 
 <br>
 
