@@ -16,8 +16,10 @@
 | **Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation** |2021| [arXiv](https://arxiv.org/abs/2104.13316) | [📄](https://github.com/AutodeskAILab/Building-GAN) | GAN · Graph |
 | **World-GAN: a Generative Model for Minecraft Worlds** |2021| [arXiv](https://arxiv.org/abs/2106.10155) | [📄](https://github.com/Mawiszus/World-GAN) | GAN |
 | **A generative architectural and urban design method through artificial neural networks** |2021| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0360132321005795) | | |
+| **Diffusion Probabilistic Models for 3D Point Cloud Generation** |2021| [arXiv](https://arxiv.org/abs/2103.01458) | [📄](https://github.com/luost26/diffusion-point-cloud) | Diffusion |
 | **House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation** |2020| [arXiv](https://arxiv.org/abs/2003.06988) | [📄](https://github.com/ennauata/housegan) | GAN · Graph|
 | **Neural Unsigned Distance Fields for Implicit Function Learning** |2020| [arXiv](https://arxiv.org/abs/2010.13938) | [📄](https://github.com/jchibane/ndf) | Implicit Representation|
+| **Denoising Diffusion Probabilistic Models** |2020| [arXiv](https://arxiv.org/abs/2006.11239) | [📄](https://github.com/hojonathanho/diffusion) | Diffusion|
 | **Automatic Generation of Game Content using a Graph-based Wave Function Collapse Algorithm** |2019| [ResearchGate][WFC-Graph] | | WFC · Graph|
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
