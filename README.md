@@ -7,6 +7,7 @@
 
 | title | year | link | code | note |
 |-------|-----|-----|------|------|
+|_Computer Vision and Pattern Recognition_||[arXiv](https://arxiv.org/list/cs.CV/recent)|||
 |_Annotated Research Paper Immplementations_||[labml.ai](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|||
 | _An Introduction to Neural Implicit Representations with Use Cases_ || [medium](https://medium.com/@nathaliemariehager/an-introduction-to-neural-implicit-representations-with-use-cases-ad331ca12907) | | Implicit Representation |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
@@ -19,6 +20,7 @@
 | **Diffusion Probabilistic Models for 3D Point Cloud Generation** |2021| [arXiv](https://arxiv.org/abs/2103.01458) | [📄](https://github.com/luost26/diffusion-point-cloud) | Diffusion |
 | **House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation** |2020| [arXiv](https://arxiv.org/abs/2003.06988) | [📄](https://github.com/ennauata/housegan) | GAN · Graph|
 | **Neural Unsigned Distance Fields for Implicit Function Learning** |2020| [arXiv](https://arxiv.org/abs/2010.13938) | [📄](https://github.com/jchibane/ndf) | Implicit Representation|
+| **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** |2020| [arXiv](https://arxiv.org/abs/2003.08934) | [📄](https://github.com/yenchenlin/nerf-pytorch) | |
 | **Denoising Diffusion Probabilistic Models** |2020| [arXiv](https://arxiv.org/abs/2006.11239) | [📄](https://github.com/hojonathanho/diffusion) | Diffusion|
 | **Automatic Generation of Game Content using a Graph-based Wave Function Collapse Algorithm** |2019| [ResearchGate][WFC-Graph] | | WFC · Graph|
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
