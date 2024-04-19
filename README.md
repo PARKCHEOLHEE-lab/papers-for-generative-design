@@ -28,6 +28,7 @@
 | **Semi-Supervised Classification with Graph Convolutional Networks** |2016| [arXiv](https://arxiv.org/abs/1609.02907) | [📄](https://github.com/tkipf/pygcn) | Graph|
 | **Conditional Generative Adversarial Nets** |2014| [arXiv](https://arxiv.org/abs/1411.1784) | [📄](https://github.com/Lornatang/CGAN-PyTorch) | Conditional GAN |
 | **Generative Adversarial Networks** |2014| [arXiv](https://arxiv.org/abs/1406.2661) | [📄](https://github.com/eriklindernoren/PyTorch-GAN) | GAN |
+| **Auto-Encoding Variational Bayes** |2013| [arXiv](https://arxiv.org/abs/1312.6114) | [📄](https://github.com/AntixK/PyTorch-VAE) | VAE |
 
 
 [WFC-Graph]: https://www.researchgate.net/publication/336086804_Automatic_Generation_of_Game_Content_using_a_Graph-based_Wave_Function_Collapse_Algorithm
