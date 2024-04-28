@@ -25,6 +25,7 @@
 | **Automatic Generation of Game Content using a Graph-based Wave Function Collapse Algorithm** |2019| [ResearchGate][WFC-Graph] | | WFC · Graph|
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
+| **Variational Graph Auto-Encoders** |2016| [arXiv](https://arxiv.org/abs/1611.07308) | [📄](https://github.com/DaehanKim/vgae_pytorch) | Graph, VAE|
 | **Semi-Supervised Classification with Graph Convolutional Networks** |2016| [arXiv](https://arxiv.org/abs/1609.02907) | [📄](https://github.com/tkipf/pygcn) | Graph|
 | **Conditional Generative Adversarial Nets** |2014| [arXiv](https://arxiv.org/abs/1411.1784) | [📄](https://github.com/Lornatang/CGAN-PyTorch) | Conditional GAN |
 | **Generative Adversarial Networks** |2014| [arXiv](https://arxiv.org/abs/1406.2661) | [📄](https://github.com/eriklindernoren/PyTorch-GAN) | GAN |
