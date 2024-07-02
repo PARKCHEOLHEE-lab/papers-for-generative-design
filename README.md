@@ -11,6 +11,7 @@
 |_Annotated Research Paper Immplementations_||[labml.ai](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|||
 | _An Introduction to Neural Implicit Representations with Use Cases_ || [medium](https://medium.com/@nathaliemariehager/an-introduction-to-neural-implicit-representations-with-use-cases-ad331ca12907) | | Implicit Representation |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
+| **GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation** |2023| [arXiv](https://arxiv.org/abs/2401.00314) | | GAN · GA |
 | **Architext: Language-Driven Generative Architecture Design** |2023| [arXiv](https://arxiv.org/abs/2303.07519) | | LLM |
 | **HouseDiffusion: Vector Floorplan Generation via a Diffusion Model with Discrete and Continuous Denoising** |2022| [arXiv](https://arxiv.org/abs/2211.13287) | [📄](https://github.com/aminshabani/house_diffusion) | Diffusion |
 | **House-GAN++: Generative Adversarial Layout Refinement Networks** |2021| [arXiv](https://arxiv.org/abs/2103.02574) | [📄](https://github.com/ennauata/houseganpp) | GAN · Graph |
