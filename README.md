@@ -13,7 +13,7 @@
 | **MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers** |2024| [arXiv](https://arxiv.org/abs/2406.10163) | [📄](https://github.com/buaacyw/MeshAnything) | Transformer |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
 | **GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation** |2023| [arXiv](https://arxiv.org/abs/2401.00314) | | GAN · GA |
-| **Architext: Language-Driven Generative Architecture Design** |2023| [arXiv](https://arxiv.org/abs/2303.07519) | | LLM |
+| **Architext: Language-Driven Generative Architecture Design** |2023| [arXiv](https://arxiv.org/abs/2303.07519) | |Mesh LLM |
 | **HouseDiffusion: Vector Floorplan Generation via a Diffusion Model with Discrete and Continuous Denoising** |2022| [arXiv](https://arxiv.org/abs/2211.13287) | [📄](https://github.com/aminshabani/house_diffusion) | Diffusion |
 | **House-GAN++: Generative Adversarial Layout Refinement Networks** |2021| [arXiv](https://arxiv.org/abs/2103.02574) | [📄](https://github.com/ennauata/houseganpp) | GAN · Graph |
 | **Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation** |2021| [arXiv](https://arxiv.org/abs/2104.13316) | [📄](https://github.com/AutodeskAILab/Building-GAN) | GAN · Graph |
@@ -27,11 +27,12 @@
 | **Automatic Generation of Game Content using a Graph-based Wave Function Collapse Algorithm** |2019| [ResearchGate][WFC-Graph] | | WFC · Graph|
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
+| **Attention Is All You Need** |2017| [arXiv](https://arxiv.org/abs/1706.03762) | [📄](https://github.com/jadore801120/attention-is-all-you-need-pytorch) | Transformer |
 | **Variational Graph Auto-Encoders** |2016| [arXiv](https://arxiv.org/abs/1611.07308) | [📄](https://github.com/DaehanKim/vgae_pytorch) | Graph, VAE|
 | **Semi-Supervised Classification with Graph Convolutional Networks** |2016| [arXiv](https://arxiv.org/abs/1609.02907) | [📄](https://github.com/tkipf/pygcn) | Graph|
 | **Conditional Generative Adversarial Nets** |2014| [arXiv](https://arxiv.org/abs/1411.1784) | [📄](https://github.com/Lornatang/CGAN-PyTorch) | Conditional GAN |
 | **Generative Adversarial Networks** |2014| [arXiv](https://arxiv.org/abs/1406.2661) | [📄](https://github.com/eriklindernoren/PyTorch-GAN) | GAN |
 | **Auto-Encoding Variational Bayes** |2013| [arXiv](https://arxiv.org/abs/1312.6114) | [📄](https://github.com/AntixK/PyTorch-VAE) | VAE |
 
-
+<!-- Links -->
 [WFC-Graph]: https://www.researchgate.net/publication/336086804_Automatic_Generation_of_Game_Content_using_a_Graph-based_Wave_Function_Collapse_Algorithm
