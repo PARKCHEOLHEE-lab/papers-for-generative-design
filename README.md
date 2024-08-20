@@ -5,7 +5,7 @@
 
 <br>
 
-| title | year | link | code | note |
+| title | year | paper | code | note |
 |-------|-----|-----|------|------|
 |_Computer Vision and Pattern Recognition_||[arXiv](https://arxiv.org/list/cs.CV/recent)|||
 |_Annotated Research Paper Immplementations_||[labml.ai](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|||
