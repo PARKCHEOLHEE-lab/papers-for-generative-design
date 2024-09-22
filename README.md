@@ -12,6 +12,7 @@
 | _An Introduction to Neural Implicit Representations with Use Cases_ || [medium](https://medium.com/@nathaliemariehager/an-introduction-to-neural-implicit-representations-with-use-cases-ad331ca12907) | | Implicit Representation |
 | **MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers** |2024| [arXiv](https://arxiv.org/abs/2406.10163) | [📄](https://github.com/buaacyw/MeshAnything) | Transformer |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
+| **Polynomial Implicit Neural Representations For Large Diverse Datasets** |2023| [arXiv](https://arxiv.org/abs/2303.11424) | [📄](https://github.com/Rajhans0/Poly_INR) | Implicit Representation|
 | **GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation** |2023| [arXiv](https://arxiv.org/abs/2401.00314) | | GAN · GA |
 | **Architext: Language-Driven Generative Architecture Design** |2023| [arXiv](https://arxiv.org/abs/2303.07519) | |Mesh LLM |
 | **HouseDiffusion: Vector Floorplan Generation via a Diffusion Model with Discrete and Continuous Denoising** |2022| [arXiv](https://arxiv.org/abs/2211.13287) | [📄](https://github.com/aminshabani/house_diffusion) | Diffusion |
