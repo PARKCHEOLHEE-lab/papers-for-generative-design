@@ -27,6 +27,7 @@
 | **Denoising Diffusion Probabilistic Models** |2020| [arXiv](https://arxiv.org/abs/2006.11239) | [📄](https://github.com/hojonathanho/diffusion) | Diffusion|
 | **Automatic Generation of Game Content using a Graph-based Wave Function Collapse Algorithm** |2019| [ResearchGate][WFC-Graph] | | WFC · Graph|
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
+| **Learning Implicit Fields for Generative Shape Modeling** |2018| [arXiv](https://arxiv.org/abs/1812.02822) | [📄](https://github.com/czq142857/implicit-decoder) | Implicit Field|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
 | **Attention Is All You Need** |2017| [arXiv](https://arxiv.org/abs/1706.03762) | [📄](https://github.com/jadore801120/attention-is-all-you-need-pytorch) | Transformer |
 | **Variational Graph Auto-Encoders** |2016| [arXiv](https://arxiv.org/abs/1611.07308) | [📄](https://github.com/DaehanKim/vgae_pytorch) | Graph, VAE|
