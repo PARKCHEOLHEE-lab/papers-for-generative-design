@@ -29,6 +29,7 @@
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
 | **Learning Implicit Fields for Generative Shape Modeling** |2018| [arXiv](https://arxiv.org/abs/1812.02822) | [📄](https://github.com/czq142857/implicit-decoder) | Implicit Field|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
+| **Exploring Generative 3D Shapes Using Autoencoder Networks** |2017| [Paper](http://www.nobuyuki-umetani.com/publication/2017_siggatb_explore/2017_siggatb_ExploringGenerative3DShapes.pdf) | | Autoencoder |
 | **Attention Is All You Need** |2017| [arXiv](https://arxiv.org/abs/1706.03762) | [📄](https://github.com/jadore801120/attention-is-all-you-need-pytorch) | Transformer |
 | **Variational Graph Auto-Encoders** |2016| [arXiv](https://arxiv.org/abs/1611.07308) | [📄](https://github.com/DaehanKim/vgae_pytorch) | Graph, VAE|
 | **Semi-Supervised Classification with Graph Convolutional Networks** |2016| [arXiv](https://arxiv.org/abs/1609.02907) | [📄](https://github.com/tkipf/pygcn) | Graph|
