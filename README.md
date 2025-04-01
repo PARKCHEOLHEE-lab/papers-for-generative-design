@@ -11,6 +11,7 @@
 |_Annotated Research Paper Immplementations_||[labml.ai](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|||
 | _An Introduction to Neural Implicit Representations with Use Cases_ || [medium](https://medium.com/@nathaliemariehager/an-introduction-to-neural-implicit-representations-with-use-cases-ad331ca12907) | | Implicit Representation |
 | **MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers** |2024| [arXiv](https://arxiv.org/abs/2406.10163) | [📄](https://github.com/buaacyw/MeshAnything) | Transformer |
+| **Free-form Floor Plan Design using Differentiable Voronoi Diagram** |2024| [paper](https://www.dropbox.com/scl/fi/culi7j1v14r9ax98rfmd6/2024_pg24_floorplan.pdf?rlkey=s5xwncuybrtsj5vyphhn61u0h&e=3&dl=0) | [📄](https://github.com/nobuyuki83/floor_plan) | Differentiable Voronoi |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
 | **Polynomial Implicit Neural Representations For Large Diverse Datasets** |2023| [arXiv](https://arxiv.org/abs/2303.11424) | [📄](https://github.com/Rajhans0/Poly_INR) | Implicit Representation|
 | **GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation** |2023| [arXiv](https://arxiv.org/abs/2401.00314) | | GAN · GA |
@@ -29,7 +30,7 @@
 | **DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation** |2019| [arXiv](https://arxiv.org/abs/1901.05103) | [📄](https://github.com/facebookresearch/DeepSDF) | SDFs · Implicit Representation|
 | **Learning Implicit Fields for Generative Shape Modeling** |2018| [arXiv](https://arxiv.org/abs/1812.02822) | [📄](https://github.com/czq142857/implicit-decoder) | Implicit Field|
 | **Graph Attention Networks** |2017| [arXiv](https://arxiv.org/abs/1710.10903) | [📄](https://github.com/tkipf/pygcn) | Graph |
-| **Exploring Generative 3D Shapes Using Autoencoder Networks** |2017| [Paper](http://www.nobuyuki-umetani.com/publication/2017_siggatb_explore/2017_siggatb_ExploringGenerative3DShapes.pdf) | | Autoencoder |
+| **Exploring Generative 3D Shapes Using Autoencoder Networks** |2017| [paper](http://www.nobuyuki-umetani.com/publication/2017_siggatb_explore/2017_siggatb_ExploringGenerative3DShapes.pdf) | | Autoencoder |
 | **Attention Is All You Need** |2017| [arXiv](https://arxiv.org/abs/1706.03762) | [📄](https://github.com/jadore801120/attention-is-all-you-need-pytorch) | Transformer |
 | **Variational Graph Auto-Encoders** |2016| [arXiv](https://arxiv.org/abs/1611.07308) | [📄](https://github.com/DaehanKim/vgae_pytorch) | Graph, VAE|
 | **Semi-Supervised Classification with Graph Convolutional Networks** |2016| [arXiv](https://arxiv.org/abs/1609.02907) | [📄](https://github.com/tkipf/pygcn) | Graph|
