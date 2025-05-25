@@ -10,6 +10,7 @@
 |_Computer Vision and Pattern Recognition_||[arXiv](https://arxiv.org/list/cs.CV/recent)|||
 |_Annotated Research Paper Immplementations_||[labml.ai](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|||
 | _An Introduction to Neural Implicit Representations with Use Cases_ || [medium](https://medium.com/@nathaliemariehager/an-introduction-to-neural-implicit-representations-with-use-cases-ad331ca12907) | | Implicit Representation |
+| **Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM** |2024| [arXiv](https://arxiv.org/pdf/2407.21333) |  | LLM |
 | **MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers** |2024| [arXiv](https://arxiv.org/abs/2406.10163) | [📄](https://github.com/buaacyw/MeshAnything) | Transformer |
 | **Free-form Floor Plan Design using Differentiable Voronoi Diagram** |2024| [paper](https://www.dropbox.com/scl/fi/culi7j1v14r9ax98rfmd6/2024_pg24_floorplan.pdf?rlkey=s5xwncuybrtsj5vyphhn61u0h&e=3&dl=0) | [📄](https://github.com/nobuyuki83/floor_plan) | Differentiable Voronoi |
 | **UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion** |2024| [arXiv](https://arxiv.org/abs/2404.06851) | [📄](https://github.com/weiqi-zhang/UDiFF) | UDFs · Diffusion |
