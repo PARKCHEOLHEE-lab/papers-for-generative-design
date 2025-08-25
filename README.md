@@ -18,6 +18,7 @@
 | **Polynomial Implicit Neural Representations For Large Diverse Datasets** |2023| [arXiv](https://arxiv.org/abs/2303.11424) | [📄](https://github.com/Rajhans0/Poly_INR) | Implicit Representation|
 | **GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation** |2023| [arXiv](https://arxiv.org/abs/2401.00314) | | GAN · GA |
 | **Architext: Language-Driven Generative Architecture Design** |2023| [arXiv](https://arxiv.org/abs/2303.07519) | |Mesh LLM |
+| **ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** |2022| [arXiv](https://arxiv.org/pdf/2206.06994) | [📄](https://github.com/allenai/procthor) | Procedural Generation |
 | **HouseDiffusion: Vector Floorplan Generation via a Diffusion Model with Discrete and Continuous Denoising** |2022| [arXiv](https://arxiv.org/abs/2211.13287) | [📄](https://github.com/aminshabani/house_diffusion) | Diffusion |
 | **House-GAN++: Generative Adversarial Layout Refinement Networks** |2021| [arXiv](https://arxiv.org/abs/2103.02574) | [📄](https://github.com/ennauata/houseganpp) | GAN · Graph |
 | **Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation** |2021| [arXiv](https://arxiv.org/abs/2104.13316) | [📄](https://github.com/AutodeskAILab/Building-GAN) | GAN · Graph |
