@@ -27,6 +27,7 @@
 | **World-GAN: a Generative Model for Minecraft Worlds** |2021| [arXiv](https://arxiv.org/abs/2106.10155) | [📄](https://github.com/Mawiszus/World-GAN) | GAN |
 | **A generative architectural and urban design method through artificial neural networks** |2021| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0360132321005795) | | |
 | **Diffusion Probabilistic Models for 3D Point Cloud Generation** |2021| [arXiv](https://arxiv.org/abs/2103.01458) | [📄](https://github.com/luost26/diffusion-point-cloud) | Diffusion |
+| **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** |2020| [arXiv](https://arxiv.org/abs/2010.11929) | [📄](https://github.com/lucidrains/vit-pytorch) | Transformer|
 | **House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation** |2020| [arXiv](https://arxiv.org/abs/2003.06988) | [📄](https://github.com/ennauata/housegan) | GAN · Graph|
 | **Neural Unsigned Distance Fields for Implicit Function Learning** |2020| [arXiv](https://arxiv.org/abs/2010.13938) | [📄](https://github.com/jchibane/ndf) | Implicit Representation|
 | **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis** |2020| [arXiv](https://arxiv.org/abs/2003.08934) | [📄](https://github.com/yenchenlin/nerf-pytorch) | |
